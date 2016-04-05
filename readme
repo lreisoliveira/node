@@ -1,0 +1,18 @@
+npm install websocket
+npm install ms -S
+npm install is-typedarray -S
+npm install chokidar --save 
+npm install compression@1.6.0
+
+
+https://gist.github.com/toshirot/1428579
+https://github.com/websockets/ws
+https://azure.microsoft.com/pt-br/documentation/articles/sql-database-develop-nodejs-simple-windows/    
+
+Mysql
+
+http://www.sitepoint.com/using-node-mysql-javascript-client/
+
+http://stackoverflow.com/questions/5869216/how-to-store-node-js-deployment-settings-configuration-files
+
+http://fideloper.com/nodejs-event-emitters
